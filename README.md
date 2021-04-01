@@ -5,4 +5,16 @@ Dataset: The dataset UCF-Crime can be downloaded from the following link: https:
 
 ![proposed_model](https://user-images.githubusercontent.com/20148840/113261652-596aad80-92ed-11eb-9611-252ac4a5ae6d.png)
 
+# State-of-the-art Anomaly Detection Performance Comparison on UCF-Crime Dataset
 ![state_of_art](https://user-images.githubusercontent.com/20148840/113287893-ce4ce000-930b-11eb-9254-2faf110f2cec.png)
+
+
+Please refer to my paper from the following link: https://ieeexplore.ieee.org/abstract/document/9225378
+@inproceedings{majhi2020temporal,
+  title={Temporal Pooling in Inflated 3DCNN for Weakly-supervised Video Anomaly Detection},
+  author={Majhi, Snehashis and Dash, Ratnakar and Sa, Pankaj Kumar},
+  booktitle={2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
+}
