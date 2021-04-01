@@ -5,3 +5,4 @@ Dataset: The dataset UCF-Crime can be downloaded from the following link: https:
 
 ![proposed_model](https://user-images.githubusercontent.com/20148840/113261652-596aad80-92ed-11eb-9611-252ac4a5ae6d.png)
 
+![Ablation_UCF](https://user-images.githubusercontent.com/20148840/113287649-7b732880-930b-11eb-905f-2b2347b7ef96.png)
