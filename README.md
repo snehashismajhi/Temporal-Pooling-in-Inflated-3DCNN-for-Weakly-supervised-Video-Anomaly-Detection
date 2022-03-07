@@ -10,12 +10,12 @@ Dataset: The dataset UCF-Crime can be downloaded from the following link: https:
 
 
 Please refer to my paper from the following link: https://ieeexplore.ieee.org/abstract/document/9225378
-
+```
 @inproceedings{majhi2020temporal,
   title={Temporal Pooling in Inflated 3DCNN for Weakly-supervised Video Anomaly Detection},
   author={Majhi, Snehashis and Dash, Ratnakar and Sa, Pankaj Kumar},
   booktitle={2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
   pages={1--6},
   year={2020},
-  organization={IEEE}
-}
+  organization={IEEE}}
+  ```
